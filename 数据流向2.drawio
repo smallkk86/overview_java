@@ -375,13 +375,13 @@
         <mxCell id="khLrELdHSYsUgajStxLo-68" value="采购" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="88" y="443" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aAf2rK8Xe-hU0H-5XGB--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="aAf2rK8Xe-hU0H-5XGB--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="353" y="342" as="sourcePoint" />
             <mxPoint x="353" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAf2rK8Xe-hU0H-5XGB--2" value="bpm论证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="aAf2rK8Xe-hU0H-5XGB--2" value="bpm论证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="308" y="253" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
