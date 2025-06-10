@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8e4hBtmDDEDwPUvlh3ac-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="730" width="1030" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="HQYJDGUzLjrmjBtzh0W9-1" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;业务流程平台&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;业务流程平台&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="214" y="442" width="90" height="60" as="geometry" />
         </mxCell>
@@ -312,6 +315,9 @@
         </mxCell>
         <mxCell id="HQYJDGUzLjrmjBtzh0W9-82" value="仪器论证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="379" y="654" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8e4hBtmDDEDwPUvlh3ac-2" value="之江大脑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="758" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
